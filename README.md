@@ -1,10 +1,6 @@
 <div align="center">
   <p>
-    <span style="display:inline-block; padding: 20px 28px; border-radius: 12px; background: linear-gradient(90deg, #24A66C, #22314E); color: #ffffff; text-align: center; line-height: 1.3; min-width: 640px;">
-      <span style="display:block; font-size: 34px; font-weight: 800;">윤치영</span>
-      <span style="display:block; font-size: 20px; font-weight: 700; margin-top: 2px;">Embedded SW</span>
-      <span style="display:block; font-size: 15px; opacity: 0.95; margin-top: 6px;">Linux | BSP | STM32 | RTOS | ROS2 | AI</span>
-    </span>
+    <img src="assets/banner.svg" alt="윤치영 · Embedded SW · Linux|BSP|STM32|RTOS|ROS2|AI" width="800" />
   </p>
 
 <p>
