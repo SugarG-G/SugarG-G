@@ -18,17 +18,29 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <br><br>
 
-**⚙️ Operating Systems & Embedded ⚙️**
+**⚙️ Operating Systems ⚙️**
 <br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-24A66C?style=for-the-badge&logo=nvidia&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![RTOS](https://img.shields.io/badge/RTOS-61B33B?style=for-the-badge&logo=freertos&logoColor=white)
+<br><br>
+
+**🔩 Embedded 🔩**
+<br>
 ![STM32](https://img.shields.io/badge/STM32-00366D?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![RTOS](https://img.shields.io/badge/RTOS-61B33B?style=for-the-badge&logo=freertos&logoColor=white)
 ![BSP](https://img.shields.io/badge/BSP-FF9900?style=for-the-badge&logoColor=white)
 ![Yocto](https://img.shields.io/badge/Yocto-0077B6?style=for-the-badge&logo=yocto&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white)
+
+![GPIO](https://img.shields.io/badge/GPIO-607D8B?style=for-the-badge&logoColor=white)
+![UART](https://img.shields.io/badge/UART-1976D2?style=for-the-badge&logoColor=white)
+![I2C](https://img.shields.io/badge/I2C-3D5AFE?style=for-the-badge&logoColor=white)
+![SPI](https://img.shields.io/badge/SPI-D32F2F?style=for-the-badge&logoColor=white)
+![PWM](https://img.shields.io/badge/PWM-43A047?style=for-the-badge&logoColor=white)
+![INTERRUPT](https://img.shields.io/badge/INTERRUPT-FB8C00?style=for-the-badge&logoColor=white)
+![DMA](https://img.shields.io/badge/DMA-8E24AA?style=for-the-badge&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00ACC1?style=for-the-badge&logoColor=white)
 <br><br>
 
 **🧠 AI/ML & Vision 👁️**
