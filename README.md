@@ -30,6 +30,7 @@
 ![STM32](https://img.shields.io/badge/STM32-00366D?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
 ![BSP](https://img.shields.io/badge/BSP-FF9900?style=for-the-badge&logoColor=white)
 ![Yocto](https://img.shields.io/badge/Yocto-0077B6?style=for-the-badge&logo=yocto&logoColor=white)
 
