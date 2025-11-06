@@ -25,7 +25,7 @@
 ![RTOS](https://img.shields.io/badge/RTOS-61B33B?style=for-the-badge&logo=freertos&logoColor=white)
 <br><br>
 
-**🔩 Embedded 🔩**
+**🔧 Embedded Systems 🔧**
 <br>
 ![STM32](https://img.shields.io/badge/STM32-00366D?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
