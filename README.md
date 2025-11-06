@@ -92,8 +92,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![TCP/Socket](https://img.shields.io/badge/TCP%2FSocket-555555?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-<br>
-[데모 영상](https://youtu.be/sqs7I7DL4iY)
 <br><br>
 
 **[X-Ray 위험물 감지](https://github.com/SugarG-G/Intel7_AI_Project_Danger_Xray)**
